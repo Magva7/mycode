@@ -1,3 +1,4 @@
+/**Вывод строки 5 раз*/
 package dz_GMByte;
 
 public class dz1_GMByte {
